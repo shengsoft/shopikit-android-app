@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "345345654365436",
+    "firebase_url": "https://social-network-1177.firebaseio.com",
+    "project_id": "social-network-1177",
+    "storage_bucket": "social-network-1177.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345345654365436:android:575d51fafa0457dce",
+        "android_client_info": {
+          "package_name": "ru.ifsoft.network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345345654365436-jn9ihk1anvv7v69tivaaegc43u67a74a14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEaEVa8PMUauceTaTGSRg3bRUR-lmXhzt6D4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
